@@ -23,8 +23,8 @@
     "tailwindcss": "^1.8.0"
   },
   "devDependencies": {
+    "autoprefixer": "^9.8.6",
     "parcel-bundler": "latest",
-    "postcss-modules": "latest",
-    "autoprefixer": "^9.8.6"
+    "postcss-modules": "latest"
   }
 }
